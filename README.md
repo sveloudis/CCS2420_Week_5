@@ -1,1 +1,1 @@
-# CCS2420_Week_5
+Promela implementation of Lamport's Bakery algorithm.

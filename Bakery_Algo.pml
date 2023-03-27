@@ -44,6 +44,3 @@ active [N] proctype P() {
 		num[_pid] = 0;
     	od;
 }										
-
-ltl p { [](<>(inCritical[1] == true)) }
-

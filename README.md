@@ -1,2 +1,2 @@
 Promela implementation of Lamport's Bakery algorithm.
-The algorithm contains a bug that prevents the provided properties from verifying in extened search spaces. Can you spot it?
+The algorithm contains a bug that prevents property p1 from verifying in extened search spaces. Can you spot it?
